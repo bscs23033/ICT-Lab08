@@ -1,0 +1,59 @@
+.header {
+    padding: 0.5px;
+    text-align: center;
+    background-color: darkslategray;
+    color: floralwhite;
+    font-size: 10px;
+    border: 3px solid #000000;
+    text-decoration: none; /* Remove underlines */
+}
+
+.container {
+    display: flex;
+    height: 30px;
+    width: 750px;
+    margin-top: 3px;                          
+}
+
+.image {
+    text-decoration: none; /* Remove underlines */
+}
+
+.img {
+    text-decoration: none; /* Remove underlines */
+}
+
+.productcontainer {
+    background-color: lightcyan;
+    border-block: inset;
+    border: 3px solid #000000;
+    text-align: center;
+    text-decoration: none; /* Remove underlines */
+}
+
+.aboutus-container {
+    font-size: 20px;
+    height: 100px;
+    width: 1150px;
+    background-color: cadetblue;
+    border: 3px solid #000000;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none; /* Remove underlines */
+}
+
+.ss-container {
+    background-color: dimgray;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none; /* Remove underlines */
+}
+
+.wrapper {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
